@@ -1,4 +1,4 @@
-# mbi
+# BMI
 
 A new Flutter project.
 
